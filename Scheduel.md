@@ -1,5 +1,6 @@
 The purpose of this doc is to record my planned events!
 
+If you awnt to see my schedule in more details, you can go [here][MyScheduel].
 
 # Day 1 ( Monday Aug 17 2015 )
 | Time | Lesson | Conference |
@@ -56,3 +57,6 @@ The purpose of this doc is to record my planned events!
 |1650| Break | Break |
 |1720| Linux Kernel Panel | Keynote |
 |1915| Attendee Reception at the Experience Music Project Musuem | Evening Event |
+
+[MyScheduel]: https://lccocc2015.sched.org/chase28
+

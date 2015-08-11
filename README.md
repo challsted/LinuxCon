@@ -9,6 +9,9 @@ Please note all will be taken in markdown, so you can convert it to HTML as you 
 
 Also, please note that i am fully aware taht i cannot spell, my grammer is terrible, and my sentence scructure is terrible. Consider all of this a "rought draft" for those who want early access to what im doing. Ill work to get a grammer checked and pretty version working as soon as possible on on my blog.
 
+If you want to see my scheduel more graphically, you can go [here][MyScheduel].
+
 [LinuxCon]:    http://events.linuxfoundation.org/events/linuxcon-north-america
 [CloudOpen]:   http://events.linuxfoundation.org/events/continercon-north-america
 [ContinerCon]: http://events.linuxfoundation.org/events/containercon
+[MyScheduel]:  https://lccocc2015.sched.org/chase28
