@@ -1,6 +1,6 @@
 # Overt, Foreman and Katello - To Empower your Data-Center Utilization
 ## Speaker Yaniv Bronhaim (Sr Software Eng - Redhat)
-### Slides Available [Here][Slides]
+### Slides Will Be Available [Here][Slides]
 
 **oVirt**
 * Originally written in .NET, now written in Java

@@ -1,7 +1,7 @@
 # Keynote 2
 ## Speaker: Dr Angel Diaz (IBM) && Ross Mauri (IBM)
 ### Guest Speaker: Mark Shuttleworth (Ubuntu)
-### Slides Availble [Here][Keynote2Slides]
+### Slides Will Be Availble [Here][Keynote2Slides]
 
 __Notes about slides__
 

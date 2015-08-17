@@ -1,6 +1,6 @@
 # Keynote 4
 ## Speaker Marianna Tessel (SVP of Docker), and Diago Monica (Lead Security tech at Docker)
-### Slides Availble [Here][Keynote4Slides]
+### Slides Will Be Availble [Here][Keynote4Slides]
 
 Continaers now have a standard!!  
 **Live Demo of Docker Content Trust:**
