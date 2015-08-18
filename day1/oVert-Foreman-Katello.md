@@ -8,14 +8,14 @@
 
 **Foreman**
 * Personal Note: Can be used to install a baseOS(PXE), need to research this
-* * "Foreman Discovery" - PXE Boot Option
-* * Research "Cobbler" as a initialization method
+ * "Foreman Discovery" - PXE Boot Option
+ * Research "Cobbler" as a initialization method
 
 **Katello**
 * Personal Note: Not sure what this does that Foreman dosnt do already
 
 
-[Slides]:           
+[Slides]:
 [oVirtHP]:          http://ovirit.org
 [Overall Projects]: http://gerrit.ovirit.org
 [ForemanHP]:        http://theforeman.org
@@ -23,4 +23,4 @@
 [katelloHP]:        http://katello.org
 [KatelloGH]:        https://github.com/katello
 
-ybronhei@redhat - if no slides
+reach out to ybronhei@redhat - if no slides
