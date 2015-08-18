@@ -1,7 +1,7 @@
 The purpose of this doc is to record the talks I plan to attend and have attended (planned is marked below, see my schedule for latest (subject to change up to start of talk)  
 If the Time is a link, then i attended the talk, and I took notes. Lack of a link means i skipped it for some reason (not feeling well/brain overload) or i had no notes to take.  
 
-__At the moment, almost all slides are not published for me to share__
+__At the moment, almost all slides are not published for me to share__  
 __But i have prepared an area of all the documents for slides to be entered, (3rd line from top)__
 
 If you awnt to see my schedule in more details, you can go [here][MyScheduel].
@@ -20,7 +20,7 @@ If you awnt to see my schedule in more details, you can go [here][MyScheduel].
 |1250| Break | Break |
 |[1420][convert-to-docker]| Converting existing Installed OS and Apps to Docker| UPDATE |
 |[1520][FOSS-Security]| Are Todays FOSS Security Practices Robust Enough in the Cloud Era?| UPDATE |
-|1620] Extened Early Break | None |
+|1620| Extened Early Break | None |
 |1710| Break | Break |
 |1740| Hardware and Software Architecture of The Machine | Keynote |
 |1750| The Power Behind the Open Data Center | Keynote |
@@ -33,12 +33,12 @@ If you awnt to see my schedule in more details, you can go [here][MyScheduel].
 [oVert]:             Day1/oVert-Foreman-Katello.md
 [unrm]:              Day1/undorm.md
 [convert-to-docker]: Day1/convert-os-to-docker.md
-[FOSS-Secuitry]:     Day1/todays-foss-good-enough.md
+[FOSS-Security]:     Day1/todays-foss-good-enough.md
 
 # Day 2 ( Tueday Aug 18 2015 )
 | Time | Lesson | Conference |
 |:----:|:-------|:-----------|
-|[0730][]| The New Stack Pancake Breakfast | Fully Optional |
+|0730| The New Stack Pancake Breakfast | Fully Optional |
 |[0900][Day2Keynote1]| Attacks, Trends and Responces | Keynote |
 |[0920][Day2Keynote2]| Open Source Code: Its in our DNA | Keynote |
 |[0930][Day2Keynote3]| How the Cloud Revolution is Changing the Role of the OS | Keynote |
@@ -86,7 +86,7 @@ If you awnt to see my schedule in more details, you can go [here][MyScheduel].
 |[1600][]| Towards a Standard Model of Open Computing | LinuxCon, DevOps, Intermediate |
 |1650| Break | Break |
 |[1720][Day3Keynote4]| Linux Kernel Panel | Keynote |
-|[1915][]| Attendee Reception at the Experience Music Project Musuem | Evening Event |
+|1915| Attendee Reception at the Experience Music Project Musuem | Evening Event |
 
 [Day3Keynote1]: Day3/Keynote1.md
 [Day3Keynote2]: Day3/Keynote2.md
