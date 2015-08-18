@@ -4,7 +4,7 @@
 
 The purpose of this is to be able to undo an rm up to a certain amount of time away  
 When a user runs rm, it preforms a "ext4_unlink_at" call in the kernel  
-There is a list of stuff that she needs help with, such as: 
+There is a list of stuff that she needs help with, such as:
 * Security
   * Non-Root Users can execure this
 * Memory Consumption
@@ -13,12 +13,12 @@ There is a list of stuff that she needs help with, such as:
 * Hard Coded Timer
   * Need to find a way to change the default timer (on a per rm?) its hard coded to 30seconds right now
 
-Research Terms:  
+Research Terms:
 * radix
 * strace
 * inode
 
-Want to see for yourself? [Github!][UNRMSource]
+Want to see for yourself? [Github Link][UNRMSource]
 
 
 [Slides]:
