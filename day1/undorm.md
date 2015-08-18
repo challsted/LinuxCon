@@ -1,5 +1,5 @@
 # Undo RM - Hacking the filesystem "UNRM"
-## Speaker [Jessica Yu][JessicaYuEmail]
+### Speaker [Jessica Yu][JessicaYuEmail]
 ### Slides Will Be Available [Here][Slides]
 
 The purpose of this is to be able to undo an rm up to a certain amount of time away  
@@ -13,12 +13,12 @@ There is a list of stuff that she needs help with, such as:
 * Hard Coded Timer
   * Need to find a way to change the default timer (on a per rm?) its hard coded to 30seconds right now
 
-
 Research Terms:  
 * radix
 * strace
 * inode
 
+Want to see for yourself? [Github!][UNRMSource]
 
 
 [Slides]:
