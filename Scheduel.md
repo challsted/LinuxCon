@@ -26,14 +26,14 @@ If you awnt to see my schedule in more details, you can go [here][MyScheduel].
 |1750| The Power Behind the Open Data Center | Keynote |
 |1800| Container Keynote Pannel | Keynote |
 
-[Day1Keynote1]:      day1/Keynote1.md
-[Day1Keynote2]:      day1/Keynote2.md
-[Day1Keynote3]:      day1/Keynote3.md
-[Day1Keynote4]:      day1/Keynote4.md
-[oVert]:             day1/oVert-Foreman-Katello.md
-[unrm]:              day1/undorm.md
-[convert-to-docker]: day1/convert-os-to-docker.md
-[FOSS-Security]:     day1/todays-foss-good-enough.md
+[Day1Keynote1]:      Day1/Keynote1.md
+[Day1Keynote2]:      Day1/Keynote2.md
+[Day1Keynote3]:      Day1/Keynote3.md
+[Day1Keynote4]:      Day1/Keynote4.md
+[oVert]:             Day1/oVert-Foreman-Katello.md
+[unrm]:              Day1/undorm.md
+[convert-to-docker]: Day1/convert-os-to-docker.md
+[FOSS-Security]:     Day1/todays-foss-good-enough.md
 
 # Day 2 ( Tueday Aug 18 2015 )
 | Time | Lesson | Conference |
