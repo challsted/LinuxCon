@@ -1,5 +1,5 @@
 # Key Note 1
-## Speaker: Jim Zemlin
+### Speaker: Jim Zemlin
 ### Slides Will Be Availble [Here][Keynote1Slides]
 
 Opening video about linus creaing linux and being a "[distributed genius][distributedgeniusvideo]"  

@@ -1,5 +1,5 @@
 # Keynote 3
-## Speaker Robin Chase (Zipcar) [@rmchase][RobinChaseTwitter]
+### Speaker Robin Chase (Zipcar) [@rmchase][RobinChaseTwitter]
 ### Slides Will Be Availble [Here][Keynote3Slides]
 
 [ZipCar][ZipCarWebsite] rent cars quickly by the hour, hold the customer accountable instead of as a vilian  
