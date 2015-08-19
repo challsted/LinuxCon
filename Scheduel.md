@@ -67,20 +67,19 @@ __Slides are available for all breakoff sessions, im having trouble finding vide
 |0935| The Disruptive Power of Flash in the Datacenter | Keynote |
 |0945| The Evolution of Computing in the Cloud | Keynote |
 |[1025][Agile]| Extreme Agile - Managing Fully Distributed Opensource Software Teams | LinuxCon, Business, Intermediate |
-|[1125][]| Internet Archive: Universal Access Open APIs | LinuxCon, WildCard, Beginner |
+|[1125][Archive]| Internet Archive: Universal Access Open APIs | LinuxCon, WildCard, Beginner |
 |1215| Break | Break |
-|[1245][]| Kernel mainline status of mobile chipsets | BoF(?) |
-|[1400][]| Understanding Distributed Databases | CloudOpen, Developer, Intermediate |
-|[1500][]| Docker: Develop and Deploy | ContinerCon, Developer, Intermediate |
-|[1600][]| Towards a Standard Model of Open Computing | LinuxCon, DevOps, Intermediate |
+|[1400][Database]| Understanding Distributed Databases | CloudOpen, Developer, Intermediate |
+|[1500][InternetOfThings]| The internet of things runs on linux | ContinerCon, Developer, Intermediate |
+|[1600][OpenComputeing]| Towards a Standard Model of Open Computing | LinuxCon, DevOps, Intermediate |
 |1650| Break | Break |
 |1720| Linux Kernel Panel | Keynote |
 |1915| Attendee Reception at the Experience Music Project Musuem | Evening Event |
 
-[Agile]: Day3/
-[]: Day3/
-[]: Day3/
-[]: Day3/
-[]: Day3/
+[Agile]: Day3/agile.md
+[Archive]: Day3/Archive.md
+[Database]: Day3/Database.md
+[InternetOfThings]: Day3/InternetOfThings.md
+[OpenComputeing]: Day3/OpenComputeing.md
 []: Day3/
 []: Day3/
