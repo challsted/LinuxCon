@@ -1,10 +1,7 @@
 The purpose of this doc is to record the talks I plan to attend and have attended (planned is marked below, see my schedule for latest (subject to change up to start of talk)  
 If the Time is a link, then i attended the talk, and I took notes. Lack of a link means i skipped it for some reason (not feeling well/brain overload) or i had no notes to take.  
 
-__At the moment, almost all slides are not published for me to share__  
-__But i have prepared an area of all the documents for slides to be entered, (3rd line from top)__
-
-If you awnt to see my schedule in more details, you can go [here][MyScheduel].
+__Slides are available for all breakoff sessions, im having trouble finding videos/slides for keynotes__
 
 [MyScheduel]:        https://lccocc2015.sched.org/chase28
 
@@ -20,7 +17,7 @@ If you awnt to see my schedule in more details, you can go [here][MyScheduel].
 |1250| Break | Break |
 |[1420][convert-to-docker]| Converting existing Installed OS and Apps to Docker| UPDATE |
 |[1520][FOSS-Security]| Are Todays FOSS Security Practices Robust Enough in the Cloud Era?| UPDATE |
-|1620| Extened Early Break | None |
+|1620| UPDATE | UPDATE | 
 |1710| Break | Break |
 |1740| Hardware and Software Architecture of The Machine | Keynote |
 |1750| The Power Behind the Open Data Center | Keynote |
@@ -43,41 +40,33 @@ If you awnt to see my schedule in more details, you can go [here][MyScheduel].
 |[0920][Day2Keynote2]| Open Source Code: Its in our DNA | Keynote |
 |[0930][Day2Keynote3]| How the Cloud Revolution is Changing the Role of the OS | Keynote |
 |1000| Break | Break |
-|[1030][]| Container Performance Monitoring and Management Useing cAdvisor | ContinerCon, Operations, Intermediate |
-|[1130][]| Teaching Linux Kernel Programming | LinuxCon, WildCard, Any |
+|[1030][LinuxCerts]| Linux Certificates - Who What Why and How | UPDATE |
+|[1130][KernelProgramming]| Teaching Linux Kernel Programming | LinuxCon, WildCard, Any |
 |1220| Break | Break |
-|[1400][]| Converting Existing Installed OS and Application to Docker | ContinerCon |
-|[1500][]| Let's Encrypt: A Certificate Authority to Encrypt the Entire Web | LinuxCon, WildCard, Any |
-|[1600][]| Denser Containers With PF Cache | ContinerCon, Developer, Intermediate |
+|[1400][SELinux]| SELinux | Update |
+|[1500][Encrypt]| Let's Encrypt: A Certificate Authority to Encrypt the Entire Web | LinuxCon, WildCard, Any |
+|[1600][PFCache]| Denser Containers With PF Cache | ContinerCon, Developer, Intermediate |
 |1650| Break | Break |
-|[1720][Day2Keynote4]| The Making of a Modern Application Architecture | Keynote |
-|[1735][Day2Keynote5]| Revolutionizing Application Delivery with Linux and Continmers | Keynote |
-|[1745][Day2Keynote6]| Warning May Contiain Clouds! | Keynote |
-|[1800][]| Attendee Reception at the Sharaton | Evening Event |
-|[2000][]| Film Screening: CODE: Debugging the Gender Gap | Evening Event |
+|1720| The Making of a Modern Application Architecture | Keynote |
+|1735| Revolutionizing Application Delivery with Linux and Continmers | Keynote |
+|1745| Warning May Contiain Clouds! | Keynote |
 
 [Day2Keynote1]: Day2/Keynote1.md
 [Day2Keynote2]: Day2/Keynote2.md
 [Day2Keynote3]: Day2/Keynote3.md
-[Day2Keynote4]: Day2/Keynote4.md
-[Day2Keynote5]: Day2/Keynote5.md
-[Day2Keynote6]: Day2/Keynote6.md
-[]: Day2/
-[]: Day2/
-[]: Day2/
-[]: Day2/
-[]: Day2/
-[]: Day2/
-[]: Day2/
-[]: Day2/
+[LinuxCerts]: Day2/linuxcerts.md
+[KernelProgramming]: Day2/KernelProgramming.md
+[SELinux]: Day2/selinux.md
+[Encrypt]: Day2/Encrypt.md
+[PFCache]: Day2/PFCache.md
 
 # Day 3 ( Wednesday Aug 19 2015 )
 | Time | Lesson | Conference |
 |:----:|:-------|:-----------|
-|[0915][Day3Keynote1]| Bitcoin and the Blockchain: A new world of open innovation | Keynote |
-|[0935][Day3Keynote2]| The Disruptive Power of Flash in the Datacenter | Keynote |
-|[0945][Day3Keynote3]| The Evolution of Computing in the Cloud | Keynote |
-|[1025][]| Extreme Agile - Managing Fully Distributed Opensource Software Teams | LinuxCon, Business, Intermediate |
+|0915| Bitcoin and the Blockchain: A new world of open innovation | Keynote |
+|0935| The Disruptive Power of Flash in the Datacenter | Keynote |
+|0945| The Evolution of Computing in the Cloud | Keynote |
+|[1025][Agile]| Extreme Agile - Managing Fully Distributed Opensource Software Teams | LinuxCon, Business, Intermediate |
 |[1125][]| Internet Archive: Universal Access Open APIs | LinuxCon, WildCard, Beginner |
 |1215| Break | Break |
 |[1245][]| Kernel mainline status of mobile chipsets | BoF(?) |
@@ -85,14 +74,10 @@ If you awnt to see my schedule in more details, you can go [here][MyScheduel].
 |[1500][]| Docker: Develop and Deploy | ContinerCon, Developer, Intermediate |
 |[1600][]| Towards a Standard Model of Open Computing | LinuxCon, DevOps, Intermediate |
 |1650| Break | Break |
-|[1720][Day3Keynote4]| Linux Kernel Panel | Keynote |
+|1720| Linux Kernel Panel | Keynote |
 |1915| Attendee Reception at the Experience Music Project Musuem | Evening Event |
 
-[Day3Keynote1]: Day3/Keynote1.md
-[Day3Keynote2]: Day3/Keynote2.md
-[Day3Keynote3]: Day3/Keynote3.md
-[Day3Keynote4]: Day3/Keynote4.md
-[]: Day3/
+[Agile]: Day3/
 []: Day3/
 []: Day3/
 []: Day3/
